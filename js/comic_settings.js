@@ -47,7 +47,150 @@ if (pg == 0) {pg = 1;} //display MOST RECENT COMIC when the webpage is loaded. i
 //Note: the formatting is important! The whole thing won't show up if you forget to include the commas or curly braces in the right place.
 
 const pgData = [
-    
+    {
+        pgNum: 1,
+        title: "",
+        date: writeDate(2024,9,9),
+        altText: "",
+        imageFiles: 1,
+        authorNotes: ``
+    },
+    {
+        pgNum: 2,
+        title: "",
+        date: writeDate(2024,9,9),
+        altText: "",
+        imageFiles: 1,
+        authorNotes: ``
+    },
+    {
+        pgNum: 3,
+        title: "",
+        date: writeDate(2024,9,9),
+        altText: "",
+        imageFiles: 1,
+        authorNotes: ``
+    },
+    {
+        pgNum: 4,
+        title: "",
+        date: writeDate(2024,9,9),
+        altText: "",
+        imageFiles: 1,
+        authorNotes: ``
+    },
+    {
+        pgNum: 5,
+        title: "",
+        date: writeDate(2024,9,9),
+        altText: "",
+        imageFiles: 1,
+        authorNotes: ``
+    },
+    {
+        pgNum: 6,
+        title: "",
+        date: writeDate(2024,9,9),
+        altText: "",
+        imageFiles: 1,
+        authorNotes: ``
+    },
+    {
+        pgNum: 7,
+        title: "",
+        date: writeDate(2024,9,9),
+        altText: "",
+        imageFiles: 1,
+        authorNotes: ``
+    },
+    {
+        pgNum: 8,
+        title: "",
+        date: writeDate(2024,9,9),
+        altText: "",
+        imageFiles: 1,
+        authorNotes: ``
+    },
+    {
+        pgNum: 9,
+        title: "",
+        date: writeDate(2024,9,9),
+        altText: "",
+        imageFiles: 1,
+        authorNotes: ``
+    },
+    {
+        pgNum: 10,
+        title: "",
+        date: writeDate(2024,9,9),
+        altText: "",
+        imageFiles: 1,
+        authorNotes: ``
+    },
+    {
+        pgNum: 11,
+        title: "",
+        date: writeDate(2024,9,9),
+        altText: "",
+        imageFiles: 1,
+        authorNotes: ``
+    },
+    {
+        pgNum: 12,
+        title: "",
+        date: writeDate(2024,9,9),
+        altText: "",
+        imageFiles: 1,
+        authorNotes: ``
+    },
+    {
+        pgNum: 13,
+        title: "",
+        date: writeDate(2024,9,9),
+        altText: "",
+        imageFiles: 1,
+        authorNotes: ``
+    },
+    {
+        pgNum: 14,
+        title: "",
+        date: writeDate(2024,9,9),
+        altText: "",
+        imageFiles: 1,
+        authorNotes: ``
+    },
+    {
+        pgNum: 15,
+        title: "",
+        date: writeDate(2024,9,9),
+        altText: "",
+        imageFiles: 1,
+        authorNotes: ``
+    },
+    {
+        pgNum: 16,
+        title: "",
+        date: writeDate(2024,9,9),
+        altText: "",
+        imageFiles: 1,
+        authorNotes: ``
+    },
+    {
+        pgNum: 17,
+        title: "",
+        date: writeDate(2024,9,9),
+        altText: "",
+        imageFiles: 1,
+        authorNotes: ``
+    },
+    {
+        pgNum: 18,
+        title: "",
+        date: writeDate(2024,9,9),
+        altText: "",
+        imageFiles: 1,
+        authorNotes: ``
+    },
 ];
 
 //below is a function you dont rly need to mess with but if you're more experienced with js you can

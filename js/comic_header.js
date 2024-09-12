@@ -2,9 +2,8 @@
 //at the bottom of your page, but before the js script calls and the closing body tag, put an empty div with a class of "writeHeader"
 document.querySelector(".writeHeader").innerHTML = `
     <header align="center">
-        <a href="index.html"><img src="./img/logo.png" alt="" /></a> 
         <div id="nav">
-		<h1>MOONSET</h1>
+		<h1>NEW ASTRONAUTS</h1>
             <a href="index.html">HOME</a> |
             <a href="archive.html">ARCHIVE</a> |
         </div>
